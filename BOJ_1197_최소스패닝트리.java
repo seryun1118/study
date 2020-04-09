@@ -1,12 +1,10 @@
-package graph200409;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.StringTokenizer;
-//Main_hw_1197_최소스패닝트리
+
 public class BOJ_1197_최소스패닝트리 {
 
 	private static int[] parents;
